@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: nginx-container
-          image: siddharth195/sid:1
+          image: siddharth195/sid:2
           ports:
             - containerPort: 80
